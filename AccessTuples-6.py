@@ -1,1 +1,3 @@
-tuple1 = ("abc", 34, True, 40, "male")
+thistuple = ("apple", "banana", "cherry")
+if "apple" in thistuple:
+  print("Yes, 'apple' is in the fruits tuple")
