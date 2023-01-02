@@ -1,0 +1,1 @@
+cars.remove("Volvo")
